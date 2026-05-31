@@ -7,14 +7,14 @@ const AWARDS = [
     title: 'On the Spot Award',
     issuer: 'Tata Consultancy Services',
     date: 'Jun 2023',
-    description: 'In appreciation of outstanding contributions to building the AI Precision Application.',
+    description: 'Awarded for outstanding performance on the AI Precision Platform, achieving a 60% reduction in simulation turnaround time and a 35% decrease in manual planning effort across a live 4-country production deployment.',
     icon: '🏆',
   },
   {
     title: 'On the Spot Award',
     issuer: 'Tata Consultancy Services',
     date: 'Feb 2022',
-    description: 'In appreciation of outstanding contributions to the AI Precision Application.',
+    description: 'Awarded for significant performance improvements on the AI Precision Platform, delivering an 85% reduction in API response time — from 6 seconds to under 900ms — directly improving campaign execution speed and reliability.',
     icon: '🏆',
   },
   {
@@ -28,7 +28,7 @@ const AWARDS = [
     title: 'Star of the Team Award',
     issuer: 'Tata Consultancy Services',
     date: 'Mar 2020',
-    description: 'Recognized for exceptional teamwork and contributions to the Resistance Monitoring Platform team.',
+    description: 'Honored for architectural leadership on the Resistance Monitoring Platform — spearheading the transition from a legacy monolith to 7 cloud-native microservices on AWS EKS, cutting API response times by 45% and scaling to 10,000+ samples annually.',
     icon: '⭐',
   },
 ];
